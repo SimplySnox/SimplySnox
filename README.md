@@ -3,7 +3,7 @@
   <a href="https://snox.codes">Website</a> |
   <a href="https://snox.codes/spark">Spark</a> |
 <a href="https://snox.codes/dsc">Discord</a> |
-  <a href="https://snox.codes/tv">Twitch</a> |
+  <a href="https://snox.codes/twitch">Twitch</a> |
   <a href="https://twitter.com/SimplySnox">Twitter</a>
 </p>
 
