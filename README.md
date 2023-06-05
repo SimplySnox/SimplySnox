@@ -1,7 +1,7 @@
 <p align='center'>
   <b>Hi 👋, I'm SimplySnox</b><br>
   <a href="https://snox.codes">Website</a> |
-  <a href="https://snox.codes/api">API</a> |
+  <a href="https://snox.codes/spark">Project</a> |
 <a href="https://snox.codes/dsc">Discord</a> |
   <a href="https://snox.codes/tv">Twitch</a> |
   <a href="https://twitter.com/SimplySnox">Twitter</a>
