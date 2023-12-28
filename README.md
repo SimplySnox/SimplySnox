@@ -1,4 +1,23 @@
-<p align='center'>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+
+# Hello! 👋️
+![](https://komarev.com/ghpvc/?username=simplysnox&color=0ca4a5)
+
+I am a fullstack developer from America. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
+
+Also, feel free to check what I've been rambling about on <a href="https://snox.codes" target="_blank">my blog</a>.
+
+<ul>
+<li>Front-End Web Developer</li>
+<li>Open Sourcerer</li>
+<li>Bullet List Enthusiast</li>
+</ul>
+
+
+<!-- <p align='center'>
   <b>Hi 👋, I'm SimplySnox</b><br>
   <a href="https://snox.codes">Website</a> |
   <a href="https://spark.snox.codes">Spark</a> |
@@ -23,7 +42,7 @@
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
 	<br><br>
-</p>
+</p> -->
 
 <!---
 SimplySnox/SimplySnox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
