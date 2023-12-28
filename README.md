@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SimplySnox/snzx/main/static/logos/Full%20Logo-youngserif.svg" width="500" height="100">
-</p>	
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
-
 # Hello! 👋️
 ![](https://komarev.com/ghpvc/?username=simplysnox&color=0ca4a5)
 
